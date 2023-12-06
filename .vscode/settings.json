@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "12.6.C": "cpp"
-    }
+    },
+    "editor.mouseWheelZoom": true
 }
